@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning PHP/Laravel
 
-- 📫 How to reach me - email: niki4.1995@gmail.com
+- 📫 How to reach me - email: nikita.veselov.wrk@gmail.com
 
 
