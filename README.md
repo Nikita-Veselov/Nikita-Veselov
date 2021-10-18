@@ -1,5 +1,5 @@
 Nikita Veselov
-Engeneer, web-developer
+<p>Engeneer, web-developer</p>
 
 telegram: @dalemausta
 email: nikita.veselov.wrk@gmail.com
