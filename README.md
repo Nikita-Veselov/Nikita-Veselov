@@ -1,7 +1,7 @@
-Nikita Veselov
+<p>Nikita Veselov</p>
 <p>Engeneer, web-developer</p>
 
-telegram: @dalemausta
-email: nikita.veselov.wrk@gmail.com
+<p>telegram: @dalemausta</p>
+<p>email: nikita.veselov.wrk@gmail.com</p>
 
 
